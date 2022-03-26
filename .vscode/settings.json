@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "inific.h": "c",
+        "stat.h": "c"
+    }
+}
